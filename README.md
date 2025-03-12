@@ -39,4 +39,4 @@ Este estudo fornece insights sobre a distribuição e a quantidade de leitos no 
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/extracao-analise-dados.git
+   git clone https://github.com/claraaqn/IC_Analise_e_Extracao_de_Dados.git
