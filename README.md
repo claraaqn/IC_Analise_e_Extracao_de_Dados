@@ -1,6 +1,6 @@
 # Extração e Análise de Dados
 
-Este repositório contém os códigos e análises realizados como parte de um projeto de iniciação científica na área de Engenharia da Computação. O projeto teve como objetivo a extração e análise de dados de dois bancos de dados distintos: um sobre a quantidade de leitos no Brasil e outro sobre a série histórica do preço da gasolina no país. Todos os dados são disponéveis publicamento nos sites oficiais do Governo Federal.
+Este repositório contém os códigos e análises realizados como parte de um projeto de iniciação científica na área de Engenharia da Computação. O projeto teve como objetivo a extração e análise de dados de dois bancos de dados distintos: um sobre a quantidade de leitos no Brasil e outro sobre a série histórica do preço da gasolina no país. Todos os dados são disponíveis publicamente nos sites oficiais do Governo Federal.
 
 ## Série Histórica do Preço da Gasolina no Brasil
 
